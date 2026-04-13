@@ -22,7 +22,7 @@ Este proyecto implementa un agente inteligente que aprende a jugar Conecta 4 uti
 ## ¿Cómo ejecutar el programa?
 
 ### 1. Instalar dependencias
-Asegúrate de tener instalada la librería necesaria:
+Asegúrate de tener instalada la librería necesaria y ejecuta el archivo "main.py":
 
 ```bash
 pip install numpy
